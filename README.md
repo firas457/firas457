@@ -13,7 +13,7 @@
 ![](https://github-readme-streak-stats.herokuapp.com/?user=firas457&theme=radical&hide_border=false)<br/>
 
 
-![Quote](https://github-readme-quotes.herokuapp.com/quote?quotesUrl=https://github.com/firas457/Networking-Packet-Sniffing-and-Spoofing-Lab/blob/main/ggg.json &theme=radical&animation=grow_out_in))
+![Quote](https://github-readme-quotes.herokuapp.com/quote?quotesUrl=https://github.com/firas457/Networking-Packet-Sniffing-and-Spoofing-Lab/blob/main/ggg.json &theme=radical&animation=grow_out_in)
 
 
 
