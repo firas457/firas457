@@ -11,7 +11,6 @@
 # 📊 GitHub Stats:
 
 ![](https://github-readme-streak-stats.herokuapp.com/?user=firas457&theme=radical&hide_border=false)<br/>
-![](https://github-readme-stats.vercel.app/api/top-langs/?username=firas457&theme=radical&hide_border=false&include_all_commits=true&count_private=true&layout=compact)
 
 
 ![Quote](https://github-readme-quotes.herokuapp.com/quote?quotesUrl=https://github.com/firas457/aaaas/blob/main/ggg.json&theme=radical&animation=grow_out_in))
