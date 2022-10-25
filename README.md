@@ -7,6 +7,7 @@
 #### Third year undergraduate student in Computer Science and Mathematics , interested in software development, Network programming , DevOps.
 #### My passion to computer science started from a very young age, I always loved to discover things and apply changes to my pc’s and my phones, but the main reason which developed that intertest was playing video games (still till now :) ).
 #### always trying to learn more and be more specialized on my field.
+[![Readme Quotes](https://quotes-github-readme.vercel.app/api?type=horizontal&theme=dark)](https://github.com/piyushsuthar/github-readme-quotes)
 <img align="right" alt="Coding" width="400" src="https://cdn.dribbble.com/users/1162077/screenshots/3848914/programmer.gif">
 
 ## 🌐 Socials:
@@ -22,7 +23,7 @@
 # 📊 GitHub Stats:
 
 ![](https://github-readme-streak-stats.herokuapp.com/?user=firas457&theme=radical&hide_border=false)<br/>
-[![Readme Quotes](https://quotes-github-readme.vercel.app/api?type=horizontal&theme=dark)](https://github.com/piyushsuthar/github-readme-quotes)
+
 
 
 
