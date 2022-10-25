@@ -1,4 +1,9 @@
 # 💫 About Me:
+![a](https://img.shields.io/badge/Android_Studio-3DDC84?style=for-the-badge&logo=android-studio&logoColor=white)
+![a](https://img.shields.io/badge/Eclipse-2C2255?style=for-the-badge&logo=eclipse&logoColor=white)
+![a](https://img.shields.io/badge/IntelliJ_IDEA-000000.svg?style=for-the-badge&logo=intellij-idea&logoColor=white)
+![a](https://img.shields.io/badge/PyCharm-000000.svg?&style=for-the-badge&logo=PyCharm&logoColor=white)
+![a](https://img.shields.io/badge/Visual_Studio-5C2D91?style=for-the-badge&logo=visual%20studio&logoColor=white)
 #### Third year undergraduate student in Computer Science and Mathematics , interested in software development, Network programming , DevOps.
 #### My passion to computer science started from a very young age, I always loved to discover things and apply changes to my pc’s and my phones, but the main reason which developed that intertest was playing video games (still till now :) ).
 #### always trying to learn more and be more specialized on my field.
