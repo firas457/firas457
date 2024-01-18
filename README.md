@@ -1,15 +1,19 @@
-# 💫 Hi I'm Firas , Nice to meet you :)
+# 👋 Hello, I'm Firas! Nice to meet you! 💫
+
 ![a](https://img.shields.io/badge/Android_Studio-3DDC84?style=for-the-badge&logo=android-studio&logoColor=white)
 ![a](https://img.shields.io/badge/Eclipse-2C2255?style=for-the-badge&logo=eclipse&logoColor=white)
 ![a](https://img.shields.io/badge/IntelliJ_IDEA-000000.svg?style=for-the-badge&logo=intellij-idea&logoColor=white)
 ![a](https://img.shields.io/badge/PyCharm-000000.svg?&style=for-the-badge&logo=PyCharm&logoColor=white)
 ![a](https://img.shields.io/badge/Visual_Studio-5C2D91?style=for-the-badge&logo=visual%20studio&logoColor=white)
 
-#### I am an undergraduate student majoring in Computer Science and Mathematics, with a keen interest in software development, network programming, and DevOps.
-#### My passion for computer science began at a very young age; I always enjoyed discovering new things and making changes to my PCs and phones. However, the primary catalyst for developing this interest was playing video games (which I still enjoy to this day).
-####  I am constantly striving to learn more and specialize further in my field.
+## 🎓 About Me
+
+I am an undergraduate student majoring in Computer Science and Mathematics, with a keen interest in software development, network programming, and DevOps. My passion for computer science started at a young age, fueled by my curiosity to explore and modify my PCs and phones. Video games played a significant role in shaping my interest, and I continue to enjoy them today.
+
+Constantly striving to learn more, I aim to specialize further in my field.
 
 <img align="right" alt="Coding" width="400" src="https://cdn.dribbble.com/users/1162077/screenshots/3848914/programmer.gif">
+
 
 ## 🌐 Socials:
 [![Facebook](https://img.shields.io/badge/Facebook-%231877F2.svg?logo=Facebook&logoColor=white)](https://www.facebook.com/profile.php?id=100010995467224) [![Instagram](https://img.shields.io/badge/Instagram-%23E4405F.svg?logo=Instagram&logoColor=white)](https://instagram.com/firasnaamneh) [![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://www.linkedin.com/in/firas-naamneh-ba3906248/) 
