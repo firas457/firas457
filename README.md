@@ -8,7 +8,7 @@
 #### M.Sc student in Software Engineering
 #### B.Sc Computer Science and Mathematics Graduate, with a keen interest in software development, network programming, and DevOps.
 
-#### My passion for computer science began at a very young age; I always enjoyed discovering new things and making changes to my PCs and phones. However, the primary catalyst for developing this interest was playing video games (which I still enjoy to this day).
+#### My passion for computer science began at a very young age; I always enjoyed discovering new things and making changes to my PCs and phones. However, the primary catalyst for developing this interest was playing video games.
 ####  I am constantly striving to learn more and specialize further in my field.
 
 <img align="right" alt="Coding" width="400" src="https://cdn.dribbble.com/users/1162077/screenshots/3848914/programmer.gif">
