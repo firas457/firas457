@@ -5,7 +5,9 @@
 ![a](https://img.shields.io/badge/PyCharm-000000.svg?&style=for-the-badge&logo=PyCharm&logoColor=white)
 ![a](https://img.shields.io/badge/Visual_Studio-5C2D91?style=for-the-badge&logo=visual%20studio&logoColor=white)
 ## 🎓 About Me
-#### I am an undergraduate student majoring in Computer Science and Mathematics, with a keen interest in software development, network programming, and DevOps.
+#### M.Sc student in Software Engineering
+#### B.Sc Computer Science and Mathematics Graduate, with a keen interest in software development, network programming, and DevOps.
+
 #### My passion for computer science began at a very young age; I always enjoyed discovering new things and making changes to my PCs and phones. However, the primary catalyst for developing this interest was playing video games (which I still enjoy to this day).
 ####  I am constantly striving to learn more and specialize further in my field.
 
